@@ -33,14 +33,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+      alt="android" width="40" height="40" /> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"
-      alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg"
-      alt="c" width="40" height="40" />  <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"
-      alt="javascript" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-     </a> </p>
+      alt="bootstrap" width="40" height="40" /> </a> <a href="https://flutter.dev/" target="_blank"
+    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"
+      alt="c" width="40" height="40" />  </a> <ahref="https://flutter.dev/" target="_blank" rel="noreferrer"  <img
 
 <br>
 
